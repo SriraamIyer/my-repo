@@ -16,7 +16,7 @@ Nowadays, stats have proved that for popular short-distance routes in India, Van
 
 **Here are some of the routes:**
 
-1.  Chennai Central – Mysore Junction
+1. Chennai Central – Mysore Junction
 2.	Chennai Central – Coimbatore Junction
 3.	Mumbai Central – Gandhinagar Capital
 4.	New Delhi – Amb Andaura

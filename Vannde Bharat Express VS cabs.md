@@ -10,7 +10,7 @@ There exist several benefits of Vande Bharat Express over taxis
  
 These were a few benefits that Vande Bharat Express offers over taxis.
 
-![Uber Intercity fare from my residence in Pune to Mumbai's Taj Mahal Palace in Colaba, Mumbai.](./media/uber-screenshot.JPG)
+![Uber Intercity fare from my residence in Pune to Mumbai's Taj Mahal Palace in Colaba, Mumbai.](./Media/uber-screenshot.JPG)
 
 Nowadays, stats have proved that for popular short-distance routes in India, Vande Bharat is preferred over cabs.
 

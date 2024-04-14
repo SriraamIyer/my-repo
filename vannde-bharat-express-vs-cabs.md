@@ -4,7 +4,7 @@ The Indian domestic travel market has undergone a significant upheaval thanks in
 Vande Bharat is a push-pull Electronic Multiple Unit (EMU) train having eight to sixteen coaches. This train may be pulled without the need for a separate locomotive. When traveling through hilly areas like the Western Ghats on the Mumbai-Pune/Mumbai-Nashik route, this train can go without the requirement for back engines. These trains are the quickest and most luxurious in India, and their primary goal is to persuade members of the wealthy and high middle classes to choose rail over road transportation when traveling short distances. This train is given the highest priority.
 There exist several benefits of Vande Bharat Express over taxis
 
-1. Despite rising fuel prices, the Vande Bharat Express is less expensive than intercity taxis.
+1. Due to rising fuel prices, the Vande Bharat Express is less expensive than intercity taxis.
 2. Compared to taxis, the Vande Bharat is speedier.
 3. Compared to taxis, Vande Bharat offers better legroom and seat reclining.
  

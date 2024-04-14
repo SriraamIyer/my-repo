@@ -11,3 +11,5 @@ Among the accomplishments that Akasa Air has made in a brief amount of time are:
 3.	The standard of their aeroplanes
 4.	The only low-cost carrier (LCC) with an A++ class (Business Class) in India
 
+   ![Akasa air logo.](./media/akasa-air-logo.png)
+

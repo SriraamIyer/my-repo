@@ -11,5 +11,15 @@ Among the accomplishments that Akasa Air has made in a brief amount of time are:
 3.	The standard of their aeroplanes
 4.	The only low-cost carrier (LCC) with an A++ class (Business Class) in India
 
-   ![Akasa air logo.](./media/akasa-air-logo.png)
+![akasa-air-logo.](./media/akasa-air-logo.png)
 
+![akasa-air-interiors.](./media/akasa-air-interiors.png)
+
+![akasa-air-exteriors.](./media/akasa-air-exteriors.png)
+
+In certain areas, Akasa Air needs to improve.
+1. Their cabin personnel must be well-groomed
+2. There is a need to improve their customer service
+3. The seats should be wider.
+
+All things considered, Akasa Air is a very good airline, somewhat inferior to Vistara (UK) but superior to SpiceJet (SG), Indigo (6E), and Air India (AI) and Air India Express (IX/I5).

@@ -20,7 +20,7 @@ Nowadays, stats have proved that for popular short-distance routes in India, Van
 1. Chennai Central – Mysore Junction
 2. Chennai Central – Coimbatore Junction
 3. Mumbai Central – Gandhinagar Capital
-4.	New Delhi – Amb Andaura
+4. New Delhi – Amb Andaura
 5. Mumbai CSMT – Solapur
 6. Delhi Cantt - Ajmer Junction
 7. Delhi Anand Vihar Terminal – Dehradun
@@ -33,7 +33,7 @@ Nowadays, stats have proved that for popular short-distance routes in India, Van
 14. Mangalore Central – Madgaon Junction
 15. Mumbai CSMT – Jalna
 16. New Delhi – Kanpur Central- Varanasi Junction
-17. KSR Bangalore - Dharwad 
+17. KSR Bangalore - Dharwad
 
 **Vande Bharat has a few minor drawbacks over taxis.** 
 1. Most Indian train stations are disorganized and unclean.

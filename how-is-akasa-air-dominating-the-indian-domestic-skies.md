@@ -13,9 +13,9 @@ Among the accomplishments that Akasa Air has made in a brief amount of time are:
 
 ![akasa-air-logo.](./media/akasa-air-logo.png)
 
-![akasa-air-interiors.](./media/akasa-air-interiors.png)
+![akasa-air-interiors.](./media/akasa-air-interiors.jpg)
 
-![akasa-air-exteriors.](./media/akasa-air-exteriors.png)
+![akasa-air-exteriors.](./media/akasa-air-exteriors.jpg)
 
 In certain areas, Akasa Air needs to improve.
 1. Their cabin personnel must be well-groomed

@@ -1,4 +1,4 @@
-WHAT MORE DOES THE INDIAN GOVERNMENT NEED TO DO TO MAKE INDIA A RAIL-DEPENDENT COUNTRY 
+WHAT MORE DOES INDIAN GOVERNMENT NEED TO DO TO MAKE INDIA RAIL-DEPENDENT 
 
 There has been a huge revolution and development in the Indian railways taking place from the year of 2018. The coaches have been upgraded, speed has been increased, and new
 trains have come, the introduction of Vande Bharat and Vande Sadharan express, etc. To promote train travel across India over the expensive road and air travel. 

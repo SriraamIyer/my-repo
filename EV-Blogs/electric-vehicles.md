@@ -22,12 +22,17 @@ buses were scrapped and made way for the new A/C EV
 double-decker buses which exactly look like the buses of
 London.
 
+![my image](./media/electric-vehicles/ather-image.jpg#center)  
+
 ## Ather EV scooter
 
+![alt text](./media/electric-vehicles/tata-nexon-ev-Image.jpg "tata-nexon-ev-Image")
 ## Tata Nexon EV
 
+![alt text](./media/electric-vehicles/Indigo-electric-bus.jpg "Indigo-electric-bus")
 ## Indigo Airlines electric bus at Kempegowda International Airport Bangalore
 
+![alt text](./media/electric-vehicles/mumbai-ac-ev-dd-bus.jpg "mumbai-ac-ev-dd-bus")
 ## Mumbai electric A/C double-decker bus
 
 **Before one decides to go for and electric vehicle**

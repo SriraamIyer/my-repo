@@ -26,10 +26,7 @@ documents can be stored on the cloud which can be viewed on the dashboard itself
 ![alt text](./media/electric-vehicles/Indigo-electric-bus.jpg "Indigo-electric-bus")
 ## Indigo Airlines electric bus at Kempegowda International Airport Bangalore
 
-![alt text](./media/electric-vehicles/mumbai-ac-ev-dd-bus.jpg "mumbai-ac-ev-dd-bus")
-## Mumbai electric A/C double-decker bus
-
-**Before one decides to go for and electric vehicle**
+**Before one decides to go for an electric vehicle**
 
 1. The EV industry is still not fully matured, which means
 that there is still not much charging infrastructure and

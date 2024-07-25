@@ -15,12 +15,6 @@ navigation, and vehicle-related
 documents can be stored on the cloud which can be viewed on the dashboard itself.
 3. All the EV buses are Air Conditioned (A/C), including the driver seat.
 4. EV buses are introduced in airports to transport the passenges from the terminal to the aircraft and vice versa.
-5. And due to the public buses becoming EVs, some people
-have started preferring buses over other means of
-transport. Like in Mumbai, the old vintage double-decker
-buses were scrapped and made way for the new A/C EV
-double-decker buses which exactly look like the buses of
-London.
 
 ![my image](./media/electric-vehicles/ather-image.jpg#center)  
 

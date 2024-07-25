@@ -16,7 +16,7 @@ documents can be stored on the cloud which can be viewed on the dashboard itself
 3. All the EV buses are Air Conditioned (A/C), including the driver seat.
 4. EV buses are introduced in airports to transport the passenges from the terminal to the aircraft and vice versa.
 
-                  ![my image](./media/electric-vehicles/ather-image.jpg#center)  
+ ![my image](./media/electric-vehicles/ather-image.jpg#center)  
 
 ## Ather EV scooter
 

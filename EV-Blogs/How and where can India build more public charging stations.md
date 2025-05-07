@@ -11,3 +11,18 @@ India is revolutionizing with EVs at a fast pace, with many E vehicles seen on t
 
 Some e-scooter companies like Ather have their charging stations called Ather Grid. It is a fast-charging station for Ather scooters and is interoperable with Hero Vida scooters and vice versa. Ather has neighbourhood chargers that are compatible with all EVs. Ola has started their network of fast charging stations in Bangalore named Ola Hypercharger and slowly expanding across India. Tata has their charging stations in some parts of the country and expanding slowly across the country.
 
+Ather Grid Charging station
+
+Vida Fast charging station. Ather scooters can be charged here and vice versa as it is interoperable
+
+Ather neighbourhood slow charger
+
+Ola Hypercharger network
+
+Tata charging station
+
+
+Given below are some of the points that can be worked on to build a public charging station-
+1.	They can have small charging points near some places like petrol pumps. They have it in some of the petrol pumps in Mumbai.
+2.	The EV companies can collaborate and share their charging points with other EVs. Like how Ather and Hero Vida share their charging stations.
+3.	More amount of public slow charging stations should be built at places like offices and other workspaces.

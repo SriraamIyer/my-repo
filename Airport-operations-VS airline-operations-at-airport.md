@@ -1,3 +1,10 @@
+---
+title:  Airport operations VS airline operations at airport
+description: This blog is about the airline ground operations at the airport and the airport operations
+topic: Travel blog
+author: Sriraam Iyer
+date: 05/07/2025
+---
 
 # Airport operations VS airline operations at airport
 

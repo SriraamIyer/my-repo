@@ -11,31 +11,42 @@ India is revolutionizing with EVs at a fast pace, with many E vehicles seen on t
 
 Some e-scooter companies like Ather have their charging stations called Ather Grid. It is a fast-charging station for Ather scooters and is interoperable with Hero Vida scooters and vice versa. Ather has neighbourhood chargers that are compatible with all EVs. Ola has started their network of fast charging stations in Bangalore named Ola Hypercharger and slowly expanding across India. Tata has their charging stations in some parts of the country and expanding slowly across the country.
 
+
 <p align="center">
-![Ather grid](./media/charging-stations/ather-grid.jpg)
- </p>
- 
+  <img src="./media/charging-stations/ather-grid.jpg"
+<p>
+
 <p align="center">
-Ather Grid Charging station
+ Ather Grid Charging station
  </p> 
 
 <p align="center">
+  <img src="./media/charging-stations/vida-fast-charger.jpg"
+<p>
+<p align="center">
 Vida Fast charging station. Ather scooters can be charged here and vice versa as it is interoperable
  </p> 
- 
+
+ <p align="center">
+  <img src="./media/charging-stations/ather-neighbourhood-charger.jpg"
+<p>
 <p align="center">
 Ather neighbourhood slow charger
   </p> 
-  
+
+ <p align="center">
+<img src="./media/charging-stations/ola-hypercharger-network.jpg">
 <p align="center">
 Ola Hypercharger network
 </p> 
 
 <p align="center">
+<img src="./media/charging-stations/tata-charging-station.jpg">
+<p align="center">
   Tata charging station
 </p> 
 
-Given below are some of the points that can be worked on to build a public charging station-
+## Given below are some of the points that can be worked on to build a public charging station-
 1.	They can have small charging points near some places like petrol pumps. They have it in some of the petrol pumps in Mumbai.
 2.	The EV companies can collaborate and share their charging points with other EVs. Like how Ather and Hero Vida share their charging stations.
 3.	More amount of public slow charging stations should be built at places like offices and other workspaces.

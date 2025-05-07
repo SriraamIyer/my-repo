@@ -1,5 +1,5 @@
 
-# Airport Operations VS Airline Operations At Airport
+# Airport operations VS airline operations at airport
 
 ## Most airports in India use airline services for their operations while some use their own services and are not dependent on the airline’s services.
 

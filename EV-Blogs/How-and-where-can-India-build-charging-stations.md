@@ -19,8 +19,9 @@ Ather neighbourhood slow charger
 
 Ola Hypercharger network
 
-Tata charging station
-
+<p align="center">
+  Tata charging station
+</p> 
 
 Given below are some of the points that can be worked on to build a public charging station-
 1.	They can have small charging points near some places like petrol pumps. They have it in some of the petrol pumps in Mumbai.

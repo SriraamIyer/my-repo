@@ -1,0 +1,10 @@
+items:
+  - name: Travel Blogs
+    items:
+    - name: Airport operations VS airline operations at airport
+      href: ./travel-blogs/airport-operations-VS airline-operations-at-airport.md
+  - name: EV Blogs
+    items:
+    - name: How and where can India build more public charging stations
+      href: ./ev-blogs/charging-stations.md   
+      

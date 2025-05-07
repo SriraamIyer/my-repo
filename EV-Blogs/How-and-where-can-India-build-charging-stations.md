@@ -16,8 +16,9 @@ Ather Grid Charging station
 Vida Fast charging station. Ather scooters can be charged here and vice versa as it is interoperable
 
 Ather neighbourhood slow charger
-
+<p align="center">
 Ola Hypercharger network
+</p> 
 
 <p align="center">
   Tata charging station

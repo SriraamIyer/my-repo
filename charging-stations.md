@@ -11,7 +11,7 @@ India is revolutionizing with EVs at a fast pace, with many E vehicles seen on t
 
 Some e-scooter companies like Ather have their charging stations called Ather Grid. It is a fast-charging station for Ather scooters and is interoperable with Hero Vida scooters and vice versa. Ather has neighbourhood chargers that are compatible with all EVs. Ola has started their network of fast charging stations in Bangalore named Ola Hypercharger and slowly expanding across India. Tata has their charging stations in some parts of the country and expanding slowly across the country.
 
-![Alt text](./media/electric-vehicles/ather-image.jpg "Ather charge")
+
 <p align="center">
 Ather Grid Charging station
  </p> 

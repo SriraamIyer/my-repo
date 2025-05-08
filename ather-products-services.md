@@ -11,8 +11,9 @@ Ather Energy is an EV startup company that has gone and set new benchmarks in th
 Ather Energy is owned by Tarun Mehta and Swapnil Jain, who are IIT Chennai products. Their company is based out in Bangalore and they have their factory in a place near Bangalore in Hosur, a place in Tamil Nadu.
 
 <p align="center">
-  <img src="./media/ather-products-services/ather-energy-scooter.jpg">
+  <img src="./media/ather-products-services/ather-energy-scooter.jpg"
 <p>
+
 
   Ather energy scooter
 

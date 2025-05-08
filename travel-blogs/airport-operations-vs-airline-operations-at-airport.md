@@ -10,7 +10,7 @@ date: 05/07/2025
 
 ## Most airports in India use airline services for their operations while some use their own services and are not dependent on the airline’s services
 
-### Here are a few advantages of using the airport services over the airline services at the airport-
+### Here are a few advantages of using the airport services over the airline services at the airport
 1. The airport staff can help you if you are flying by any airline, but that is not the case with airline staff at the airport, they will only help the passengers on the
 airline they are flying by.
 Bangalore Airport uses the airport staff system in which they have their own staff.

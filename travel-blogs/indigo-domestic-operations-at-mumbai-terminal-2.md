@@ -1,6 +1,6 @@
 ---
 title:  indigo-domestic-operations-at-mumbai-terminal-2
-description: This blog talsk about the Indigo airlines domestic operations at Mumbai Terminal 2
+description: This blog talks about the Indigo airlines domestic operations at Mumbai Terminal 2
 topic: Travel blog
 author: SriraamIyer
 date: 05/09/2025

@@ -1,3 +1,10 @@
+---
+title:  indigo-domestic-operations-at-mumbai-terminal-2
+description: This blog talsk about the Indigo airlines domestic operations at Mumbai Terminal 2
+topic: Travel blog
+author: SriraamIyer
+date: 05/09/2025
+---
 # INDIGO DOMESTIC OPERATIONS FROM MUMBAI TERMINAL 2
 
 Recently, Indigo (6E) airlines placed an aircraft for 600 aircraft, due to which now there is a huge problem of infrastructure and parking space at the airports. Now due to this, Indigo started extending its domestic operations in some of the multi-terminal airports in India like Delhi (DEL) and Mumbai (BOM). In Delhi, they extended their operations to terminal 1, so in Delhi, Indigo operates its domestic flights from T1 and T2. In Mumbai, they operate their domestic flights from T1, they extended it to T2 in December 2023.

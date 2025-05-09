@@ -23,9 +23,9 @@ Air India
 Air India Express
 </p> 
 
-## Some of the notable things about these airlines is that they share the ground services of Tata, as Tata is a very big industry. Here are some of the notable ground operations shared -
+## Some of the notable things about these airlines is that they share the ground services of Tata, as Tata is a very big industry. Here are some of the notable ground operations shared
 1.	The stairway is used by Air India for both the airlines.
 2.	The luggage vehicle is used by Air India as well for both the airlines.
 
-## There are some areas where they can develop themselves more-
+## There are some areas where they can develop themselves more
 1.	They can start using E buses for airside operations as Tatas has the largest EV share in India for large vehicles.

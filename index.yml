@@ -7,4 +7,8 @@ items:
     items:
     - name: How and where can India build more public charging stations
       href: ./ev-blogs/charging-stations.md   
+       - name: Travel Blogs
+    items:
+    - name: how-can-smart-luggage-trolleys-help-passengers
+      href: ./travel-blogs/how-can-smart-luggage-trolleys-help-passengers.md   
 

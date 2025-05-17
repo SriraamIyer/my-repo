@@ -14,6 +14,7 @@ Ather Energy is owned by Tarun Mehta and Swapnil Jain, who are IIT Chennai produ
 <figure markdown="span">
   ![Ather Energy Scooter](./media/ather-products-services/ather-energy-scooter.jpg)
 </figure>
+
  
 <figure markdown="span">
   ![Ather Energy Logo](./media/ather-products-services/ather-energy-logo.jpg)
